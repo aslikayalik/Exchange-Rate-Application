@@ -1,0 +1,8 @@
+C:\Users\Aslı\source\repos\DovizKurUygulaması\ApiServis\bin\Debug\ApiServis.exe
+C:\Users\Aslı\source\repos\DovizKurUygulaması\ApiServis\bin\Debug\ApiServis.pdb
+C:\Users\Aslı\source\repos\DovizKurUygulaması\ApiServis\obj\Debug\ApiServis.csproj.AssemblyReference.cache
+C:\Users\Aslı\source\repos\DovizKurUygulaması\ApiServis\obj\Debug\ApiServis.ProjectInstaller.resources
+C:\Users\Aslı\source\repos\DovizKurUygulaması\ApiServis\obj\Debug\ApiServis.csproj.GenerateResource.cache
+C:\Users\Aslı\source\repos\DovizKurUygulaması\ApiServis\obj\Debug\ApiServis.csproj.CoreCompileInputs.cache
+C:\Users\Aslı\source\repos\DovizKurUygulaması\ApiServis\obj\Debug\ApiServis.exe
+C:\Users\Aslı\source\repos\DovizKurUygulaması\ApiServis\obj\Debug\ApiServis.pdb

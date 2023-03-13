@@ -1,0 +1,7 @@
+C:\Users\Aslı\source\repos\DovizKurUygulaması\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Aslı\source\repos\DovizKurUygulaması\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp.Form1.resources
+C:\Users\Aslı\source\repos\DovizKurUygulaması\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\Aslı\source\repos\DovizKurUygulaması\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aslı\source\repos\DovizKurUygulaması\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\Aslı\source\repos\DovizKurUygulaması\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Users\Aslı\source\repos\DovizKurUygulaması\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache

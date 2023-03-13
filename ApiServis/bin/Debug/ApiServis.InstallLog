@@ -1,0 +1,13 @@
+﻿'C:\Users\Aslı\source\repos\DovizKurUygulaması\ApiServis\bin\Debug\ApiServis.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Aslı\source\repos\DovizKurUygulaması\ApiServis\bin\Debug\ApiServis.InstallLog
+   assemblypath = C:\Users\Aslı\source\repos\DovizKurUygulaması\ApiServis\bin\Debug\ApiServis.exe
+Doviz Uygulaması Servisi hizmeti yükleniyor...
+Doviz Uygulaması Servisi hizmeti başarıyla yüklendi.
+Application günlüğünde Doviz Uygulaması Servisi EventLog kaynağı oluşturuluyor...
+'C:\Users\Aslı\source\repos\DovizKurUygulaması\ApiServis\bin\Debug\ApiServis.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Aslı\source\repos\DovizKurUygulaması\ApiServis\bin\Debug\ApiServis.InstallLog
+   assemblypath = C:\Users\Aslı\source\repos\DovizKurUygulaması\ApiServis\bin\Debug\ApiServis.exe
